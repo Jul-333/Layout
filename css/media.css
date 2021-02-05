@@ -1,0 +1,879 @@
+@media screen and (max-width: 1126px) {
+    .head-logo-menu {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    .greeting-text-1,
+    .greeting-text-2 {
+        font-size: 35px;
+    }
+    .about-us-section {
+        height: 847px;
+    }
+    .wrapper-h2 {
+        padding-top: 99px;
+        padding-bottom: 82px;
+    }
+    .img-computer {
+        width: 354px;
+    }
+    .works-section {
+        max-height: 1025px;
+        min-height: 525px;
+        height: 100%;
+    }
+    .works-gallery {
+        height: 647px;
+        justify-content: center;
+    }
+    .works-gallery img {
+        width: 320px;
+        height: 309px;
+    }
+    .works-gallery:nth-child(2) img,
+    .works-gallery:nth-child(5) img {
+        margin-right: 5px;
+        margin-left: 5px;
+    }
+
+    .our-services {
+        max-height: 1436px;
+        min-height: 525px;
+        height: 100%;
+    }
+
+    .services-gallery {
+        justify-content: center;
+        max-height: 1039px;
+        min-height: 420px;
+        height: 100%;
+    }
+
+    .service-1,
+    .service-3,
+    .service-6 {
+        width: 560px;
+    }
+
+    .service-2,
+    .service-4,
+    .service-5 {
+        width: 412px;
+    }
+
+    .service-item {
+        height: 340px;
+        margin-bottom: 5px;
+    }
+    .service-item:nth-child(odd) {
+        margin-right: 5px;
+    }
+    .line-1 {
+        margin-top: 126px;
+    }
+    .line-2 {
+        margin-top: 152px;
+    }
+    .line-3 {
+        margin-top: 111px;
+    }
+    .team-section {
+        height: 1062px;
+    }
+    .team-gallery {
+        max-height: 812px;
+        min-height: 597px;
+        height: 100%;
+        justify-content: center;
+    }
+    .team-gallery .employee {
+        width: 325px;
+        height: 400px;
+    }
+
+    .team-gallery .employee:nth-child(2),
+    .team-gallery .employee:nth-child(5) {
+        margin: 0 5px;
+    }
+    .about-employee {
+        width: 305px;
+        height: 238px;
+    }
+
+    .about-employee .h3,
+    .testimonial-text .h3 {
+        font-size: 17px;
+        line-height: 18px;
+    }
+    .employee-info {
+        font-size: 14px;
+        line-height: 23px;
+    }
+
+    .employee-social-networks {
+        margin-left: 28px;
+        margin-top: 12px;
+    }
+    
+    .testimonial-section {
+        height: 762px;
+    }
+
+    .testimonial-img-text {
+        justify-content: space-around;
+        height: 380px;
+    }
+    .testimonial-img-background {
+        width: 370px;
+        height: 309px;
+    }
+    .testimonial-img img {
+        width: 339px;
+        height: 396px;
+    }
+    .testimonial-text-wrapper {
+        height: 309px;
+        width: 546px;
+    }
+    .company-logos {
+        height: 149px;
+        width: 939px;
+        margin-top: 87px;
+    }
+    .footer-background {
+        height: 585px;
+    }
+    .contact-block {
+        justify-content: space-around;
+        padding-top: 103px;
+    }
+    .form-block {
+        width: 503px;
+        height: 425px;
+    }
+    .form-block .inner-wrapper {
+        margin-top: 28px;
+    }
+    .input-wrapper input,
+    .message-textarea {
+        width: 437px;
+    }
+    .btn-send-message {
+        width: 213px;
+        height: 42px;
+        font-size: 15px;
+    }
+
+    .map-block {
+        height: 425px;
+        width: 448px;
+    }
+    .map-block .inner-wrapper {
+        height: 370px;
+    }
+
+    .map {
+        width: 403px;
+        height: 183px;
+    }
+    .social-networks-company {
+        height: 277px;
+    }
+}
+@media screen and (max-width: 990px) {
+    .header {
+        height: 620px;
+        padding-top: 29px;
+    }
+    .menu-btn {
+        top: 42px;
+        right: 20px;
+    }
+    .menu-box {
+        padding: 69px 0;
+    }
+    .div-greeting-text-btn {
+        padding-top: 56px;
+    }
+
+    .greeting-text-1,
+    .greeting-text-2 {
+        font-size: 25px;
+    }
+    .greeting-text-1:first-child {
+        margin-bottom: 10px;
+    }
+    .btn-contact-us {
+        font-size: 15px;
+        width: 222px;
+        height: 43px;
+    }
+    .juice-glass-btn {
+        bottom: 49px;
+        right: 73px;
+    }
+    .juice-glass-img {
+        width: 75px;
+        height: 75px;
+    }
+
+    .about-us-img,
+    .about-us-text {
+        width: 428px;
+    }
+
+    .about-us-img-text {
+        justify-content: space-around;
+    }
+    .about-us-p1,
+    .about-us-p2,
+    .about-us-p3 {
+        font-size: 14px;
+    }
+
+    .h2 {
+        font-size: 29px;
+        margin-top: 61px;
+    }
+    .definition-h2 {
+        font-size: 16px;
+    }
+    .wrapper-h2 {
+        padding-top: 30px;
+        margin-bottom: 0px;
+        padding-bottom: 55px;
+    }
+    .about-us-section {
+        height: 760px;
+    }
+    .about-us-h3:nth-of-type(1) {
+        font-size: 17px;
+    }
+    .about-us-h3:nth-of-type(2) {
+        font-size: 15px;
+    }
+
+    .about-us-img {
+        justify-content: center;
+    }
+    .about-us-text {
+        padding-left: 0px;
+    }
+    .about-us-p1,
+    .about-us-p2,
+    .about-us-p3 {
+        width: 403px;
+    }
+
+    .img-computer {
+        width: 246px;
+    }
+
+    .works-gallery {
+        margin-top: 0px;
+        height: 393px;
+    }
+    .works-gallery img {
+        width: 199px;
+        height: 190px;
+        margin-bottom: 5px;
+    }
+
+    .service-item {
+        height: 238px;
+    }
+
+    .service-1,
+    .service-3,
+    .service-6 {
+        width: 385px;
+    }
+    .service-2,
+    .service-4,
+    .service-5 {
+        width: 310px;
+    }
+    .service-info-wrapper {
+        margin-left: 17px;
+        margin-top: 85px;
+    }
+    .services-gallery .h3 {
+        font-size: 15px;
+        line-height: 16px;
+    }
+    .service-info-definition {
+        font-size: 12px;
+    }
+    .service-1 .service-info-definition,
+    .service-3 .service-info-definition,
+    .service-6 .service-info-definition {
+        width: 366px;
+        height: 58px;
+    }
+    .service-info-wrapper button {
+        font-size: 13px;
+    }
+    .service-info-wrapper .arrow-icon {
+        width: 15px;
+        height: 10px;
+    }
+    .service-2 .service-info-definition,
+    .service-4 .service-info-definition,
+    .service-5 .service-info-definition {
+        height: 58px;
+        width: 286px;
+    }
+    .team-section {
+        height: 807px;
+    }
+  
+    .team-gallery .employee {
+        background-size: cover;
+        width: 237px;
+        height: 292px;
+    }
+
+    .about-employee {
+        width: 226px;
+        height: 180px;
+        margin-top: 114px;
+        margin-left: 3px;
+        padding-top: 27px;
+    }
+
+    .about-employee .h3 {
+        font-size: 13px;
+        line-height: 15px;
+    }
+    .employee-position {
+        font-size: 11px;
+    }
+    .employee-info {
+        font-size: 11px;
+        line-height: 23px;
+        width: 171px;
+        height: 50px;
+    }
+    .testimonial-img-text {
+        margin-top: 24px;
+        height: 324px;
+    }
+    .testimonial-img img {
+        width: 282px;
+        height: 341px;
+    }
+    .testimonial-text-wrapper {
+        height: 256px;
+        width: 368px;
+    }
+    .testimonial-img-background {
+        height: 256px;
+        width: 306px;
+    }
+    .testimonial-text-wrapper .testimonial-info {
+        width: 346px;
+        height: 127px;
+        font-size: 12px;
+        line-height: 23px;
+    }
+    .rating img {
+        width: 12px;
+        height: 11px;
+    }
+
+    .next-prev-btn {
+        width: 94px;
+    }
+    .next-prev-btn button {
+        width: 40px;
+        height: 39px;
+    }
+    .next-prev-btn img {
+        width: 11px;
+        height: 12px;
+    }
+    .testimonial-section {
+        height: 621px;
+    }
+    .company-logos {
+        height: 98px;
+        width: 696px;
+    }
+    .footer-background {
+        height: 437px;
+    }
+    .contact-block {
+        padding-top: 63px;
+    }
+    .form-block {
+        max-width: 370px;
+        min-width: 317px;
+        width: 100%;
+        height: 354px;
+    }
+    .form-block .inner-wrapper {
+        height: 310px;
+        margin-left: 18px;
+    }
+
+    .input-wrapper input,
+    .message-textarea {
+        width: 308px;
+    }
+    .message-textarea {
+        height: 59px;
+    }
+    .btn-send-message {
+        width: 189px;
+        height: 35px;
+        font-size: 13px;
+    }
+    .map-block {
+        height: 354px;
+        width: 341px;
+    }
+    .map-block .inner-wrapper {
+        height: 317px;
+        margin-top: 21px;
+        margin-left: 18px;
+    }
+    .contacts-list {
+        height: 90px;
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .contacts-list li:nth-child(4) {
+        margin-bottom: 13px;
+    }
+    .map {
+        width: 306px;
+        height: 161px;
+    }
+    .social-networks-company {
+        height: 167px;
+    }
+    .social-networks-company .h2 {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .social-networks-company-links {
+        width: 167px;
+    }
+    .social-networks-company .social-networks-company-links a .icon-wrapper {
+        width: 35px;
+        height: 35px;
+    }
+    .social-networks-company-links i {
+        font-size: 18px;
+        line-height: 37px;
+        margin-left: 11px;
+    }
+    .social-networks-company .inner-wrapper {
+        height: 64px;
+        margin-bottom: 16px;
+    }
+    .social-networks-company p {
+        font-size: 14px;
+    }
+}
+@media screen and (max-width: 721px) {
+    .header {
+        height: 403px;
+        padding-top: 17px;
+    }
+    .logo {
+        width: 103px;
+        height: 36px;
+    }
+    .menu-btn {
+        top: 29px;
+    }
+    .menu-box {
+        padding: 60px 0;
+        width: 240px;
+    }
+
+    .menu-item {
+        font-size: 18px;
+        padding: 9px 24px;
+    }
+    .h1 {
+        font-size: 13px;
+    }
+    .greeting-text-1,
+    .greeting-text-2 {
+        font-size: 17px;
+    }
+    .greeting-text-1:first-child {
+        margin-bottom: 0px;
+    }
+    .div-greeting-text-btn {
+        padding-top: 0px;
+    }
+    .div-greeting-text-btn {
+        height: 331px;
+    }
+    .btn-contact-us {
+        font-size: 11px;
+        width: 164px;
+        height: 34px;
+    }
+    .juice-glass-btn {
+        display: none;
+    }
+    .wrapper-h2 {
+        padding-bottom: 15px;
+    }
+    .h2 {
+        font-size: 23px;
+        margin-top: 15px;
+        line-height: 19px;
+    }
+    .definition-h2,
+    .team-section .definition-h2 {
+        font-size: 12px;
+        line-height: 21px;
+    }
+    .about-us-section {
+        height: 573px;
+    }
+    .about-us-img {
+        display: none;
+    }
+    .about-us-img-text {
+        justify-content: center;
+        padding: 0 18px;
+    }
+
+    .about-us-text {
+        text-align: center;
+    }
+    .about-us-h3:nth-of-type(1) {
+        font-size: 17px;
+    }
+
+    .about-us-p1,
+    .about-us-p2,
+    .about-us-p3 {
+        width: 100%;
+    }
+    .about-us-p2 {
+        margin-top: 7px;
+        margin-bottom: 6px;
+    }
+
+    .services-gallery .h3 {
+        font-size: 12px;
+        line-height: 12px;
+    }
+
+    .service-info-definition {
+        font-size: 11px;
+        line-height: 18px;
+    }
+    .service-1,
+    .service-3,
+    .service-6 {
+        width: 336px;
+    }
+    .service-2,
+    .service-4,
+    .service-5 {
+        width: 276px;
+    }
+    .service-item {
+        height: 194px;
+    }
+    .service-info-wrapper {
+        margin-left: 15px;
+        margin-top: 65px;
+    }
+    .service-1 .service-info-definition,
+    .service-3 .service-info-definition,
+    .service-6 .service-info-definition {
+        width: 313px;
+        height: 51px;
+    }
+    .service-2 .service-info-definition,
+    .service-4 .service-info-definition,
+    .service-5 .service-info-definition {
+        height: 51px;
+        width: 245px;
+    }
+    .service-info-wrapper button {
+        font-size: 12px;
+        margin-top: 11px;
+    }
+    .team-section {
+        height: 1023px;
+    }
+    .testimonial-img img {
+        top: -35px;
+    }
+    .team-gallery .employee:nth-child(2),
+    .team-gallery .employee:nth-child(5) {
+        margin: 0px;
+    }
+    .team-gallery .employee:nth-child(odd) {
+        margin-right: 5px;
+    }
+    .team-gallery .employee {
+        margin-bottom: 5px;
+    }
+    .about-employee {
+        width: 222px;
+        height: 155px;
+        margin-top: 108px;
+    }
+    .about-employee .h3 {
+        font-size: 12px;
+        line-height: 12px;
+    }
+    .employee-info {
+        font-size: 11px;
+        line-height: 18px;
+        height: 44px;
+    }
+    .testimonial-section {
+        height: 632px;
+    }
+    .testimonial-img-text {
+        height: 552px;
+        flex-direction: column;
+        height: 570px;
+    }
+    .testimonial-img img {
+        width: 252px;
+        height: 290px;
+    }
+    .testimonial-img-background {
+        height: 201px;
+        width: 278px;
+    }
+    .testimonial-img .progress-block {
+        margin-top: 45px;
+        margin-right: 0px;
+    }
+    .testimonial-text {
+        align-items: center;
+    }
+
+    .testimonial-text-wrapper {
+        height: 216px;
+        width: 468px;
+        margin-bottom: 8px;
+    }
+    .next-prev-btn {
+        align-self: center;
+    }
+    .company-logos {
+        height: 71px;
+        width: 458px;
+        margin-top: 112px;
+    }
+
+    .contact-block {
+        padding-top: 25px;
+        align-items: center;
+        flex-direction: column;
+        height: 738px;
+    }
+
+    .map-block {
+        max-width: 370px;
+        min-width: 317px;
+        width: 100%;
+    }
+
+    .footer-background {
+        height: 735px;
+    }
+    .social-networks-company {
+        height: 118px;
+    }
+    .social-networks-company .h2 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .social-networks-company .inner-wrapper {
+        height: 52px;
+    }
+}
+@media screen and (max-width: 627px) {
+    .menu-item {
+        font-size: 16px;
+    }
+    .menu-box {
+        width: 200px;
+    }
+  
+    .works-gallery {
+        height: 599px;
+    }
+    .service-item {
+        width: 220px;
+        height: 190px;
+    }
+    .services-gallery .h3 {
+        height: 24px;
+    }
+    .service-item .service-info-definition {
+        display: none;
+    }
+    .service-info-wrapper {
+        margin-left: 15px;
+        margin-top: 122px;
+    }
+
+    .testimonial-text-wrapper {
+        width: 381px;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .header {
+        height: 360px;
+        padding-top: 9px;
+    }
+    .menu-btn {
+        top: 19px;
+    }
+    .menu-item {
+        padding: 7px 24px;
+        font-size: 15px;
+    }
+    .menu-box {
+        width: 163px;
+    }
+    .div-greeting-text-btn {
+        height: 302px;
+    }
+    .greeting-text-1,
+    .greeting-text-2 {
+        font-size: 13px;
+        line-height: 20px;
+    }
+    .h2 {
+        font-size: 17px;
+        margin-top: 0px;
+        line-height: 11px;
+    }
+    .definition-h2,
+    .team-section .definition-h2 {
+        font-size: 10px;
+        line-height: 17px;
+    }
+    .wrapper-h2 {
+        padding-bottom: 8px;
+    }
+    .works-section .wrapper-h2 {
+        padding-bottom: 28px;
+    }
+    .about-us-h3 {
+        line-height: 4px;
+    }
+
+    .about-us-h3:nth-of-type(1) {
+        font-size: 12px;
+        margin-top: 22px;
+    }
+    .about-us-p1,
+    .about-us-p2,
+    .about-us-p3 {
+        font-size: 12px;
+        line-height: 24px;
+    }
+    .about-us-section {
+        max-height: 586px;
+        min-height: 482px;
+        height: 100%;
+        padding-bottom: 15px;
+    }
+
+    .works-gallery {
+        margin-top: 22px;
+        height: 414px;
+        max-width: 320px;
+        width: 100%;
+        margin: 0 auto;
+    }
+    .works-gallery img {
+        width: 142px;
+        height: 132px;
+    }
+
+    .services-gallery {
+        margin: 0 auto;
+        margin-top: 26px;
+        width: 320px;
+    }
+    .service-item {
+        width: 142px;
+        height: 132px;
+    }
+    .service-info-wrapper {
+        margin-top: 68px;
+    }
+    .team-section {
+        height: 693px;
+    }
+    .team-gallery {
+        max-width: 320px;
+        width: 100%;
+        margin: 24px auto;
+    }
+    .team-gallery .employee {
+        width: 147px;
+        height: 175px;
+    }
+    .about-employee {
+        width: 138px;
+        height: 74px;
+
+        margin-top: 72px;
+    }
+    .about-employee {
+        padding-top: 13px;
+    }
+    .employee-info,
+    .employee-position {
+        display: none;
+    }
+    .employee-social-networks {
+        margin-left: 18px;
+        margin-top: 12px;
+    }
+    .testimonial-text-wrapper {
+        width: 310px;
+    }
+    .testimonial-text-wrapper .testimonial-info {
+        width: 308px;
+    }
+    .company-logos {
+        min-height: 50px;
+        max-height: 69px;
+        height: 100%;
+        min-width: 315px;
+        max-width: 413px;
+        width: 100%;
+        margin-top: 71px;
+    }
+    .input-wrapper input,
+    .message-textarea {
+        width: 285px;
+    }
+    .btn-send-message {
+        width: 179px;
+        height: 30px;
+        font-size: 10px;
+        align-self: center;
+    }
+    .map {
+        width: 286px;
+        height: 155px;
+    }
+
+    .social-networks-company p {
+        font-size: 12px;
+    }
+}
